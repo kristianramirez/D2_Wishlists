@@ -1,0 +1,7 @@
+# D2 Wishlists
+
+## Season of Arrivals
+
+### Temptation's Hook
+dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391
+dimwishlist:item=35794111&perks=2827049491,269888150,2590710093,3913600130
