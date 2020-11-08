@@ -1,8 +1,20 @@
 # D2 Wishlists
 
+## Beyond Light & Season of the Hunt (S12)
+-------------------------------------------------------------------------------
 ## Season of Arrivals (S11)
 
 ### Kinetic
+
+#### LONESOME
+// PVE
+dimwishlist:item=2199171672&perks=3661387068,1885400500,4267945040,3523296417
+dimwishlist:item=2199171672&perks=3661387068,1885400500,1631667848,4082225868
+dimwishlist:item=2199171672&perks=3661387068,1885400500,1168162263,3523296417
+
+// PVE OR PVP
+dimwishlist:item=2199171672&perks=3661387068,1885400500,1168162263,2458213969
+dimwishlist:item=2199171672&perks=3661387068,1885400500,1168162263,1015611457
 
 #### LONG SHADOW
 // PVE
