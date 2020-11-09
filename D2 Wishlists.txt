@@ -163,6 +163,8 @@ dimwishlist:item=4146702548&perks=3301904089,3300816228,3096702027
 ### Kintetic
 
 ### Energy
+#### FELWINTER'S LIE
+dimwishlist:item=1179141605
 
 #### POINT OF THE STAG
 dimwishlist:item=3434944005
