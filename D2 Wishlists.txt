@@ -4,8 +4,8 @@
 
 ### Kinetic
 #### HAILING CONFUSION
-// notes: PVE - You can almost get this on par with Bygones.
-dimwishlist:item=2870169846&perks=1482024992,1885400500,3436462433,3592538738#notes: MW-Range MOD-Counterbalance Stock
+// notes: PVE - You can almost get this on par with Bygones. MW-Range MOD-Counterbalance Stock
+dimwishlist:item=2870169846&perks=1482024992,1885400500,3436462433,3592538738
 
 // Trash Rolls
 dimwishlist:item=2870169846&#notes:There’s really only a couple roll I’m interested in, the rest can be dismantled
