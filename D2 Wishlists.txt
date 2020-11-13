@@ -4,9 +4,13 @@
 
 ### Kinetic
 #### HAILING CONFUSION
-// PVE
-dimwishlist:item=2870169846&perks=839105230,1885400500,3436462433,3592538738
-dimwishlist:item=2870169846&perks=839105230,1885400500,1168162263,3523296417
+// notes: PVE - You can almost get this on par with Bygones.
+dimwishlist:item=2870169846&perks=1482024992,1885400500,3436462433,3592538738#notes: MW-Range MOD-Counterbalance Stock
+
+// notes: PVE test
+dimwishlist:item=2870169846#notes:mw-range mod-counterbalance
+
+
 
 
 // PVP
@@ -175,7 +179,7 @@ dimwishlist:item=1835747805&perks=1926090095,3142289711,957782887,1546637391
 dimwishlist:item=1835747805&perks=1926090095,3142289711,957782887,3523296417
 
 #### MAIN INGREDIENT
-dimwishlist:item=253196586&#nope
+dimwishlist:item=253196586&notes:This is not a good fusion for anything really, the perk combos don’t lend themselves to doing much of anything for any mode.
 
 #### Truthteller
 // PVE
