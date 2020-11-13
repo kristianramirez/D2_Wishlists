@@ -8,7 +8,7 @@
 dimwishlist:item=2870169846&perks=1482024992,1885400500,3436462433,3592538738
 
 // Trash Rolls
-dimwishlist:item=2870169846&#notes:There’s really only a couple roll I’m interested in, the rest can be dismantled
+dimwishlist:item=-2870169846&#notes:There’s really only a couple roll I’m interested in, the rest can be dismantled
 
 // PVP
 dimwishlist:item=2870169846&perks=839105230,1561002382,3436462433,3592538738
