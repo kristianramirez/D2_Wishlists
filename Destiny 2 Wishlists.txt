@@ -11,7 +11,40 @@ dimwishlist:item=2870169846&perks=1482024992,1885400500,1168162263,3523296417#no
 dimwishlist:item=2870169846&perks=1482024992,1885400500,2387244414,4267945040#notes:PVE/PVP-This is a decent roll for either PVE or PVP. This gun doesn't have any damage dealing perks but it could still be viable. MW-Range MOD-Counterbalance Stock
 
 
+#### Biting Winds
+//notes:PVE- MW: Draw Time/Reload/Accuracy/Stability, MOD: Major Spec/Boss Spec
+dimwishlist:item=1621657423&perks=852209214,3827198035,247725512,4082225868
+dimwishlist:item=1621657423&perks=852209214,3827198035,247725512,3108830275
+
+//notes:PVE OR PVP- MW: Draw Time/Reload/Accuracy/Stability, MOD: PVP-Targeting Adjuster PVE: Major/Boss Spec
+dimwishlist:item=1621657423&perks=852209214,3827198035,2450788523,3108830275
+
+//notes:PVP-MW: Draw Time/Reload/Accuracy/Stability, MOD: Targeting Adjuster
+dimwishlist:item=1621657423&perks=852209214,3827198035,2450788523,3365897133
+dimwishlist:item=1621657423&perks=852209214,3827198035,588594999,3365897133
+
 ### Energy
+
+#### Bone Chiller
+dimwishlist:item=4037745684&perks=1482024992,3142289711,3300816228,3523296417#notes: PVE-MW:Reload, MOD: Major Spec
+dimwishlist:item=4037745684&perks=1482024992,3142289711,3300816228,2848615171#notes: PVE-MW:Reload, MOD: Dragonfly Spec
+
+// notes: PVP-MW:Range, MOD: Target Adjuster
+dimwishlist:item=4037745684&perks=202670084,3142289711,3300816228,47981717
+
+#### Xenoclast
+// notes:PVE-MW:Range, MOD: Major Spec
+dimwishlist:item=2891672170&perks=1047830412,106909392,1631667848,2679249093
+dimwishlist:item=2891672170&perks=4090651448,791862061,1631667848,4082225868
+dimwishlist:item=2891672170&perks=4090651448,791862061,3096702027,1683379515
+dimwishlist:item=2891672170&perks=4090651448,791862061,3096702027,3523296417
+dimwishlist:item=2891672170&perks=4090651448,791862061,3096702027,2726471870
+dimwishlist:item=2891672170&perks=4090651448,791862061,3096702027,3425386926
+
+// Notes:PVP-MW:Range, MOD: Targeting Adjuster
+dimwishlist:item=2891672170&perks=1047830412,3142289711,3161816588,2450788523
+dimwishlist:item=2891672170&perks=1047830412,3142289711,3161816588,1546637391
+dimwishlist:item=2891672170&perks=1047830412,3142289711,3161816588,3108830275
 
 ### Power
 
@@ -28,6 +61,13 @@ dimwishlist:item=3565520715&perks=1478423395,1380253176,2010801679,3523296417
 dimwishlist:item=3565520715&perks=1478423395,1380253176,3096702027,3523296417
 
 
+#### Subzero Salvo
+// notes:PVE-MW:Blast Radius, MOD: Boss Spec
+dimwishlist:item=42351395&perks=1478423395,1996142143,2010801679,2396489472
+dimwishlist:item=42351395&perks=1478423395,1996142143,2010801679,1275731761
+dimwishlist:item=42351395&perks=1478423395,1996142143,2010801679,2726471870
+dimwishlist:item=42351395&perks=1478423395,1996142143,2010801679,3523296417
+
 
 –—————————————————————–
 
@@ -41,7 +81,37 @@ dimwishlist:item=3745990145&perks=893526892,3142289711,247725512,3400784728
 // notes:PVP- MW: Range, MOD: Counterbalance Stock
 dimwishlist:item=3745990145&perks=893526892,3142289711,957782887,588594999
 
+#### Lonesome
+// notes:PVE-MW:Reload, MOD: Major Spec
+dimwishlist:item=2199171672&perks=1482024992,3230963543,1168162263,4082225868
+dimwishlist:item=2199171672&perks=1482024992,3230963543,247725512,4082225868
+dimwishlist:item=2199171672&perks=1482024992,3230963543,1168162263,3523296417
+dimwishlist:item=2199171672&perks=1482024992,3230963543,1168162263,4082225868
+dimwishlist:item=2199171672&perks=1482024992,3230963543,1631667848,4082225868
+
+// notes:PVP-MW:Range, MOD: Targeting Adjuster
+dimwishlist:item=2199171672&perks=3250034553,1885400500,1168162263,2458213969
+dimwishlist:item=2199171672&perks=3250034553,1885400500,1168162263,1015611457
+dimwishlist:item=2199171672&perks=3250034553,1885400500,4267945040,1015611457
+dimwishlist:item=2199171672&perks=3250034553,1885400500,4267945040,2458213969
+
 ### Energy
+
+#### Last Dance
+// notes: PVE - MW: Reload/Range, MOD: Dragonfly Spec
+dimwishlist:item=2009277538&perks=445755705,1885400500,1168162263,2848615171
+dimwishlist:item=2009277538&perks=445755705,3230963543,1168162263,2848615171#notes:PVE - MW:Range, MOD Dragonfly Spec
+
+// notes: PVP - MW: Reload, MOD: Targeting Adjuster
+dimwishlist:item=2009277538&perks=445755705,1885400500,4267945040,2846385770
+
+#### Wishbringer
+// notes:PVE-MW:Stability/Reload, MOD:Major Spec
+dimwishlist:item=3356526253&perks=1482024992,106909392,4071163871,47981717
+ 
+// notes:PVP-MW:Range, MOD:Targing Adjuster
+dimwishlist:item=3356526253&perks=1047830412,3142289711,3161816588,957782887
+dimwishlist:item=3356526253&perks=1047830412,3142289711,3161816588,47981717
 
 ### Power
 
@@ -50,6 +120,14 @@ dimwishlist:item=3745990145&perks=893526892,3142289711,957782887,588594999
 
 ## Season of the Worthy (S10)
 ### Kintetic
+
+#### Enigma's Draw
+// notes:PVE-MW: Reload, MOD: Major Spec
+dimwishlist:item=1723380073&perks=445755706,3230963543,1631667848,4082225868
+dimwishlist:item=1723380073&perks=445755706,3230963543,3400784728,247725512
+dimwishlist:item=1723380073&perks=445755706,3230963543,1631667848,3523296417
+dimwishlist:item=1723380073&perks=445755706,3230963543,3400784728,3523296417
+dimwishlist:item=1723380073&perks=445755706,3230963543,3400784728,4082225868
 
 ### Energy
 
@@ -60,6 +138,12 @@ dimwishlist:item=1179141605
 dimwishlist:item=3434944005
 
 ### Power
+
+#### Interference IV
+// notes:PVE-MW:Velocity, MOD:Boss Spec
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110
+dimwishlist:item=2257180473&perks=1478423395,1380253176,3300816228,3523296417#notes:PVE-MW:Blast Radius, MOD:Major Spec
 
 –—————————————————————–
 
@@ -76,14 +160,6 @@ dimwishlist:item=1807343361&perks=4090651448,791862061,1631667848,2679249093
 dimwishlist:item=1807343361&perks=466087222,3142289711,2117683199,47981717
 
 ### Energy
-
-#### Last Dance
-// notes: PVE - MW: Reload/Range, MOD: Dragonfly Spec
-dimwishlist:item=2009277538&perks=445755705,1885400500,1168162263,2848615171
-dimwishlist:item=2009277538&perks=445755705,3230963543,1168162263,2848615171#notes:PVE - MW:Range, MOD Dragonfly Spec
-
-// notes: PVP - MW: Reload, MOD: Targeting Adjuster
-dimwishlist:item=2009277538&perks=445755705,1885400500,4267945040,2846385770
 
 ### Power
 
