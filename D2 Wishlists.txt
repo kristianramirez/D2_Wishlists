@@ -10,6 +10,9 @@ dimwishlist:item=2870169846&perks=1482024992,1885400500,3436462433,3592538738
 ### Energy
 
 ### Power
+#### CROWD PLEASER
+// notes: PVE - MW: Blast Radius, MOD: Boss Spec
+
 
 
 -------------------------------------------------------------------------------
